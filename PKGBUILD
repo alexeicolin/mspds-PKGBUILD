@@ -7,7 +7,7 @@ pkgver=3.07.000.012
 pkgrel=1
 pkgdesc="MSP430 Debug Stack. Contains a dynamic link library as well as embedded firmware that runs on the MSP-FET430UIF or the eZ430 emulators."
 arch=('i686' 'x86_64')
-url="http://processors.wiki.ti.com/index.php/MSPDS_Open_Source_Package"
+url="http://www.ti.com/tool/mspds"
 # Licenses were found in "Manifest MSPDebugStack OS Package.pdf" from the mspds source archive.
 license=('custom:TI BSD' 'custom:IAR BSD' 'custom: TI TSPA')
 group=('msp430')
